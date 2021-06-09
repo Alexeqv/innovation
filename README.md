@@ -4,8 +4,8 @@
 
 
 ```bash
-# Reemplazar .env
-Reemplazar .env.local por .env
+# Reemplazar .env.local por .env
+$ cp .env.local .env
 
 # install dependencies
 $ npm install
