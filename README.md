@@ -21,8 +21,8 @@ $ npm run start
 $ npm run generate
 ```
 
-#En esta prueba se utilizaron los siguientes frameworks :
+# En esta prueba se utilizaron los siguientes frameworks
 
  [Nuxt.js docs](https://nuxtjs.org).
- 
+
  [Vuetify.js docs](https://vuetifyjs.com).
