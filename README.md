@@ -2,11 +2,11 @@
 
 ## Build Setup
 
-# Reemplazar .env.local
-
-Reemplazar .env.local por .env
 
 ```bash
+# Reemplazar .env
+Reemplazar .env.local por .env
+
 # install dependencies
 $ npm install
 
@@ -21,7 +21,8 @@ $ npm run start
 $ npm run generate
 ```
 
-En esta prueba se usaron:
+#En esta prueba se utilizaron los siguientes frameworks :
 
  [Nuxt.js docs](https://nuxtjs.org).
+ 
  [Vuetify.js docs](https://vuetifyjs.com).
