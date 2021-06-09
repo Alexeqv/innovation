@@ -37,12 +37,12 @@ export default {
       this.urlLogo = url;
     });
     this.$nuxt.$on("urlBack", (url, type) => {
-      this.btnBack = true;
+     /*  this.btnBack = true;
       this.type = type;
-      this.urlBack = url;
+      this.urlBack = url; */
     });
     this.$nuxt.$on("showBtnBack", (option) => {
-      this.btnBack = option;
+      // this.btnBack = option;
     });
   },
   methods: {
